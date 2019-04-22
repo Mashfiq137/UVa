@@ -18,7 +18,6 @@ int main(){
             k--;
 
             printf("Case %d: %d\n",++cs,(k+p)%n+1);
-
             }
 return 0;
 }
