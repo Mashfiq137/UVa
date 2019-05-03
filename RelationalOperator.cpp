@@ -19,8 +19,6 @@ int main(){
                             else if(a<b) cout<<"<"<<endl;
 
                             else cout<<"="<<endl;
-
-
             }
 
 
